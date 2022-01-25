@@ -11,5 +11,7 @@ To start your Phoenix server:
   * Após terminar o processo, pode ir em `http://localhost:4000/api/v1/numeros_ordenados/1`
     ** sendo o número referente a página com 50 elementos.
 
+  * Para rodar os testes `mix test`
+
 
 ## 🥺🥺🥺
